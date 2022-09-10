@@ -203,18 +203,18 @@ return `*OTHERS MENU*
 
 exports.textprem  = (sender, prefix) => {
 return `Jika kamu ingin menjadi Member Premium, kamu cukup membayar 
-Rp5.000 untuk 1 Minggu
-Rp20.000 untuk 1 Bulan 
-dan jika ingin menjadi Member Premium Permanen kamu hanya membayar Rp50.000. Jika berminat silahkan chat Owner Bot, ketik ${prefix}owner
+Rp5.000/80wls untuk 1 Minggu
+Rp10.000/120wls untuk 1 Bulan 
+dan jika ingin menjadi Member Premium Permanen kamu hanya membayar Rp30.000/320WLS Jika berminat silahkan chat Owner Bot, ketik ${prefix}owner
 
 *Payment :* 
-Dana/Qris/Ovo`
+Dana/ShopeePay/Gopay`
 }
 
 exports.textdonasi = (sender, prefix) => {
 return `*DONASI BOT*
 
-*E-walet Monay :*
+*E-walet Money :*
 ➭ Dana : 081364218561
 ➭ Ovo : -
 ➭ Gopay : 081364218561
